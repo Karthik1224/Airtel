@@ -6,6 +6,8 @@ public class Student {
 	private String name;
 
 	private String number;
+	
+	private String age;
 
 	public String getName() {
 		return name;
