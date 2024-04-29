@@ -9,6 +9,9 @@ public class Student {
 	
 	private String age;
 
+	private String email;
+    
+
 	public String getName() {
 		return name;
 	}
