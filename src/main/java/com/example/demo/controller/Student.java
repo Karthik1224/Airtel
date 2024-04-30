@@ -11,6 +11,7 @@ public class Student {
 
 	private String email;
     
+	private String address;
 
 	public String getName() {
 		return name;
